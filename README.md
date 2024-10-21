@@ -1,6 +1,4 @@
-# textMining_sentiment_detection_tweet
-
-Deteccion de sentimiento en tweets
+## Deteccion de sentimiento en tweets
 
 Uno de los mayores problemas en el internet de hoy en día es la presencia de actitudes negativas hacia algunos colectivos en relación a su etnia, género, religión o ideología política. En este ejercicio trabajaremos con un conjunto de datos reales, etiquetados manualmente, procedentes de la plataforma Kaggle. Originalmente, a cada documento del dataset se le asignó una de las siguientes categorías:
 
